@@ -1,1 +1,1 @@
-# okta_p1
+# okta_p1: In this guide, you will learn how to onboard users to Okta using the Okta Dashboard, set their password to require a change on first login, add custom attribute, import  users into Okta via a CSV file, create a groups, and add users to the group both manually and by rule.
